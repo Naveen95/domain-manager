@@ -33,10 +33,7 @@ $ php artisan migrate
 $ php artisan serve
 ```
 
-License
-----
 
-MIT
 
 
 
